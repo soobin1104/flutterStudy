@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "42093086",
+      "name": "菠萝",
+      "font_class": "boluo",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    }
+  ]
+}
